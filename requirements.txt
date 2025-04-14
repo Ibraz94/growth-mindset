@@ -3,3 +3,5 @@ Pillow==10.2.0
 rembg==2.0.50
 rembg==2.0.57  # or the latest compatible version
 onnxruntime==1.18.0  # or the latest compatible version
+gdown==4.7.1  # or the latest compatible version
+numpy==1.24.4  # or the latest compatible version
